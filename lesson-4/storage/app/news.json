@@ -1,0 +1,37 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Новость 1",
+        "text": "А у нас новость 1 и она очень хорошая про спорт!",
+        "isPrivate": false,
+        "category_id": 1
+    },
+    "2": {
+        "id": 2,
+        "title": "Новость 2",
+        "text": "А тут плохие новости про политику(((",
+        "isPrivate": false,
+        "category_id": 2
+    },
+    "3": {
+        "id": 3,
+        "title": "Новость 3",
+        "text": "Приватная про политику",
+        "isPrivate": true,
+        "category_id": 2
+    },
+    "4": {
+        "title": "Новость 3",
+        "text": null,
+        "isPrivate": true,
+        "category_id": 2,
+        "id": 4
+    },
+    "5": {
+        "title": "НОВОСТЬ 5",
+        "text": null,
+        "isPrivate": true,
+        "category_id": 2,
+        "id": 5
+    }
+}
